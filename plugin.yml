@@ -1,0 +1,39 @@
+name: ScallexSG
+main: net.rod.sg.SG
+author: iRektRod
+version: 1.1
+commands: 
+  setspawn:
+  settimer:
+  d:
+    aliases: [disguise]
+  ud:
+    aliases: [undisguise]
+  addvote:
+  bounty:
+  get:
+  fly:
+  confirmbounty:
+  setspec:
+  setbounty:
+  segment:
+  survivalchests:
+  players:
+  resetbounty:
+  lobby:
+    aliases: [hub]
+  setlobby:
+  chatcolor:
+    aliases: [cc]
+  stats:
+  sg:
+    aliases: [ssg]
+  list:
+    aliases: [l]
+  murder:
+  vote:
+    aliases: [v]
+  forcestart:
+  test:
+  spectate:
+    aliases: [spec]
